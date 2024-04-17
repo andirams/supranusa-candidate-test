@@ -1,0 +1,17 @@
+{
+  "name": "supranusa-candidate-test",
+  "version": "1.0.0",
+  "description": "Supranusa Sindata Candidate Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Andira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
